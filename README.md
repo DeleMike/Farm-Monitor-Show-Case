@@ -12,14 +12,14 @@ Farmers are provided with Good Agricultural Practices (GAP), informed on their c
  
  <img src="search_farm.png" width="300" alt="Search Farm"> <img src="week_calendar.png" width="300" alt="Week Calendar">
 
-<img src="calendar_screen.png" width="300" alt="Calendar"> <img src="weather_guage.png" width="300" alt="Weather">
+ <img src="weather_guage.png" width="300" alt="Weather"> <img src="farm_details.png" width="300" alt="Farm Details"> 
 
-<img src="display_map.png" width="300" alt="Weather"> <img src="farm_details.png" width="300" alt="Farm Details"> 
+<img src="display_map.png" width="300" alt="Weather"> <img src="bar_graphs.png" width="300" alt="Bar Graphs"> 
 
 <img src="map_def.png" width="300" alt="Map Default"> <img src="map_actions.png" width="300" alt="Map Actions">
 
-<img src="after_map.png" width="300" alt="Map After View"> <img src="bar_graphs.png" width="300" alt="Bar Graphs"> 
+<img src="after_map.png" width="300" alt="Map After View"> <img src="create_farm_submit.png" width="300" alt="Create Farm">
 
-<img src="create_farm_submit.png" width="300" alt="Create Farm"> <img src="multi_step.png" width="300" alt="Multi Step Form"> 
+ <img src="multi_step.png" width="300" alt="Multi Step Form"> <img src="a_step_in_multi.png" width="300" alt="A multi step form">
 
-<img src="a_step_in_multi.png" width="300" alt="A multi step form">
+
